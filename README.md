@@ -55,3 +55,9 @@ This is a living, breathing, evolving document. These will be updated as discuss
   * They are participating in an Armada, OR
   * ...TBD
 * Stations may be raided at any time.
+
+## Enforcement
+
+If you believe that another player has attacked you in violation of RoE, you should first send them a message inquiring about the incident. If they do not respond, or you do not believe that their response is sufficient, you should contact the admiral of your alliance.
+
+Consequences TBD.

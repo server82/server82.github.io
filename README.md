@@ -13,6 +13,8 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
 <dl>
   <dt>AC</dt>
   <dd>Alliance Chat</dd>
+  <dt>DM / PM</dt>
+  <dd>Direct Message / Private Message -- a chat message sent directly to another player</dd>
   <dt>GC</dt>
   <dd>Galaxy Chat</dd>
   <dt>LB</dt>
@@ -48,6 +50,7 @@ This is a living, breathing, evolving document. These will be updated as discuss
 * Survey ships are OFF LIMITS unless:
   * They are OPC, OR
   * They are sitting on a zeroed node
+    * In the case of a zeroed node, it is customary to send a 2 minute warning before attacking. This gives the other player time to fix the problem, and ensures that the attack can be proven to be within RoE.
 * Warships are FAIR GAME unless:
   * They are participating in an Armada, OR
   * ...TBD

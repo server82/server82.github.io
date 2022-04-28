@@ -11,12 +11,14 @@ Until then though, [join us on Discord!](https://discord.gg/n37bsdvM9d)
 A lot of acronyms and terms are thrown around which you may not be familiar with. Here are a few of those to help you get started.
 
 <dl>
-  <dt>RoE / ROE<dt>
-  <dd>Rules of Engagement</dd>
-  <dt>OPC</dt>
-  <dd>Over Protected Cargo -- your ship is carrying more cargo than fits into its protected storage space</dd>
-  <dt>UPC</dt>
-  <dd>Under Protected Cargo -- your ship is not yet carrying enough cargo to exceed its protected storage space</dd>
+  <dt>AC</dt>
+  <dd>Alliance Chat</dd>
   <dt>GC</dt>
   <dd>Galaxy Chat</dd>
+  <dt>OPC</dt>
+  <dd>Over Protected Cargo -- your ship is carrying more cargo than fits into its protected storage space</dd>
+  <dt>RoE / ROE</dt>
+  <dd>Rules of Engagement</dd>
+  <dt>UPC</dt>
+  <dd>Under Protected Cargo -- your ship is not yet carrying enough cargo to exceed its protected storage space</dd>
 </dl>

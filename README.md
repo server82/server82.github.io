@@ -15,6 +15,8 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
   <dd>Alliance Chat</dd>
   <dt>DM / PM</dt>
   <dd>Direct Message / Private Message -- a chat message sent directly to another player</dd>
+  <dt>F2P</dt>
+  <dd>Free to Play -- players who do not make in-game purchases</dd>
   <dt>GC</dt>
   <dd>Galaxy Chat</dd>
   <dt>LB</dt>
@@ -23,6 +25,8 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
   <dd>Milestone (for Alliance events)</dd>
   <dt>OPC</dt>
   <dd>Over Protected Cargo -- your ship is carrying more cargo than fits into its protected storage space</dd>
+  <dt>P2P</dt>
+  <dd>Pay to Play -- players who make in-game purchases</dd>
   <dt>PvE / PVE</dt>
   <dd>Player versus Enemy (hostile / computer)</dd>
   <dt>PvP / PVP</dt>
@@ -37,6 +41,8 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
   <dd>Under Protected Cargo -- your ship is not yet carrying enough cargo to exceed its protected storage space</dd>
   <dt>Warship</dt>
   <dd>Any battleship, explorer, or interceptor class ship</dd>
+  <dt>Whale</dt>
+  <dd>Players who spend an exceptionally high amount of money on the game, when compared to other players</dd>
   <dt>Zeroed / Zeroed node</dt>
   <dd>A fully depleted resource node</dd>
 </dl>

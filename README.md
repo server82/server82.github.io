@@ -19,10 +19,12 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
   <dd>Free to Play -- players who do not make in-game purchases</dd>
   <dt>GC</dt>
   <dd>Galaxy Chat</dd>
-  <dt>LB</dt>
+  <dt>LB / ALB</dt>
   <dd>Leaderboard (for Alliance events)</dd>
-  <dt>MS</dt>
+  <dt>MS / AMS</dt>
   <dd>Milestone (for Alliance events)</dd>
+  <dt>NAP</dt>
+  <dd>Non-Aggression Pact</dd>
   <dt>OPC</dt>
   <dd>Over Protected Cargo -- your ship is carrying more cargo than fits into its protected storage space</dd>
   <dt>P2P</dt>
@@ -56,13 +58,14 @@ This is a living, breathing, evolving document. These will be updated as discuss
 * Survey ships are OFF LIMITS unless:
   * They are OPC, OR
   * They are sitting on a zeroed node
-    * In the case of a zeroed node, it is customary to send a 2 minute warning before attacking. This gives the other player time to fix the problem, and ensures that the attack can be proven to be within RoE.
-* Warships are FAIR GAME unless:
+    * Before attacking a survey ship on a zeroed node, you MUST send a DM to the player informing them of the reason for the attack.
+    * No warning/grace period is required between DM and attack, but waiting 1-2 minutes is often appreciated, as the player may not have even been aware of the problem.
+* Warships are FAIR GAME at all times unless:
   * They are participating in an Armada, OR
   * ...TBD
 * Stations may be raided at any time.
 
-## Enforcement
+### Enforcement
 
 If you believe that another player has attacked you in violation of RoE, you should first send them a message inquiring about the incident. If they do not respond, or you do not believe that their response is sufficient, you should contact the admiral of your alliance.
 

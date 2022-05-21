@@ -6,7 +6,7 @@ But first, we have to write that up. So sit tight.
 
 Until then though, [join us on Discord!](https://discord.gg/n37bsdvM9d)
 
-## Definitions
+## Glossary
 
 A lot of acronyms and terms are thrown around which you may not be familiar with. Here are a few of those to help you get started.
 
@@ -39,6 +39,8 @@ A lot of acronyms and terms are thrown around which you may not be familiar with
   <dd>Solo Leaderboard</dd>
   <dt>SMS</dt>
   <dd>Solo Milestone</dd>
+  <dt>Token Space</dt>
+  <dd>A system which requires the player to spend a token in order to enter</dd>
   <dt>UPC</dt>
   <dd>Under Protected Cargo -- your ship is not yet carrying enough cargo to exceed its protected storage space</dd>
   <dt>Warship</dt>
@@ -55,15 +57,37 @@ These Rules of Engagement discuss when it is or is not okay to go PvP.
 
 This is a living, breathing, evolving document. These will be updated as discussions happen.
 
-* Survey ships are OFF LIMITS unless:
+### Standard RoE
+
+These default rules apply at all times and in all systems, unless covered by a specific exception in the section below.
+
+* Survey ships are &#x1F534; INVALID TARGETS unless:
   * They are OPC, OR
   * They are sitting on a zeroed node
     * Before attacking a survey ship on a zeroed node, you MUST send a DM to the player informing them of the reason for the attack.
     * No warning/grace period is required between DM and attack, but waiting 1-2 minutes is often appreciated, as the player may not have even been aware of the problem.
-* Warships are FAIR GAME at all times unless:
-  * They are participating in an Armada, OR
-  * ...TBD
+* Warships are &#x1F7E2; VALID TARGETS at all times unless:
+  * They are participating in an Armada
 * Stations may be raided at any time.
+
+### Exceptions
+
+#### Swarm Space
+
+* Active warships are &#x1F534; INVALID TARGETS
+* Idle warships are &#x1F7E2; VALID TARGETS
+  * Before attacking an idle warship in swarm space, you must send a warning message and wait at least one minute
+
+#### Borg Space
+
+* Active warships are &#x1F534; INVALID TARGETS
+* Idle warships are &#x1F7E2; VALID TARGETS
+  * Before attacking an idle warship in Borg space, you must send a warning message and wait at least one minute
+
+#### Territories
+
+* If your alliance controls the territory, Standard RoE applies to your ships
+* If your alliance does not own the territory, all of your ships are &#x1F7E2; VALID TARGETS
 
 ### Enforcement
 

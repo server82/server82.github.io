@@ -69,6 +69,8 @@ These default rules apply at all times and in all systems, unless covered by a s
 * Warships are &#x1F7E2; VALID TARGETS at all times unless:
   * They are participating in an Armada
 * Stations may be raided at any time.
+  * Poaching resources from a raid you did not participate in is not allowed, and considered a violation of these RoE.
+  * OPC survey ships recalling from a raid are &#x1F7E2; VALID TARGETS
 
 ### Exceptions
 
@@ -88,6 +90,7 @@ These default rules apply at all times and in all systems, unless covered by a s
 
 * If your alliance controls the territory, your warships and OPC miners are &#x1F7E2; VALID TARGETS. All others ships are &#x1F534; INVALID TARGETS
 * If your alliance does not own the territory, all of your ships are &#x1F7E2; VALID TARGETS
+* During takeover events, all ships are &#x1F7E2; VALID TARGETS
 
 ### Enforcement
 

@@ -86,7 +86,7 @@ These default rules apply at all times and in all systems, unless covered by a s
 
 #### Territories
 
-* If your alliance controls the territory, Standard RoE applies to your ships
+* If your alliance controls the territory, your warships and OPC miners are &#x1F7E2; VALID TARGETS. All others ships are &#x1F534; INVALID TARGETS
 * If your alliance does not own the territory, all of your ships are &#x1F7E2; VALID TARGETS
 
 ### Enforcement
